@@ -28,4 +28,4 @@ Python, Pandas, SQL, Machine Learning, AI APIs
 
 ## Current Progress
 
-Day 1: Project structure, company policies, and initial evaluation dataset.
+-- Project structure, company policies, and initial evaluation dataset. 
