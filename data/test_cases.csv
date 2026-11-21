@@ -1,0 +1,12 @@
+
+id,question,expected_answer
+1,Can I return something after 20 days?,Yes if eligible
+2,Can I return something after 45 days?,No
+3,How long does standard delivery take?,3-5 business days
+4,How long does express delivery take?,1-2 business days
+5,Can I return a personalised item?,Only if defective
+6,How long does an approved refund take?,Within 7 business days
+7,Can I cancel an order before dispatch?,Yes
+8,Can I cancel an order after dispatch?,No
+9,Do you offer free delivery?,Yes for orders over 50 euros
+10,Can my refund go to a different payment method?,No
