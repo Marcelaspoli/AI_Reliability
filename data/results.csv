@@ -1,0 +1,11 @@
+id,question,expected_answer,actual_answer,status
+1,Can I return something after 20 days?,Yes if eligible,"I understand you’re asking about our return policy. According to our company policies, customers can return eligible products within 30 days of delivery.",needs_review
+2,Can I return something after 45 days?,No,I do not know.,needs_review
+3,How long does standard delivery take?,3-5 business days,Standard delivery takes 3-5 business days.,needs_review
+4,How long does express delivery take?,1-2 business days,Express delivery takes 1-2 business days.,needs_review
+5,Can I return a personalised item?,Only if defective,"According to our Returns Policy, Personalized products cannot be returned unless defective.",needs_review
+6,How long does an approved refund take?,Within 7 business days,Approved refunds are processed within 7 business days.,needs_review
+7,Can I cancel an order before dispatch?,Yes,"No, orders cannot be cancelled before they are dispatched.",needs_review
+8,Can I cancel an order after dispatch?,No,"No, orders cannot be cancelled once dispatched.",needs_review
+9,Do you offer free delivery?,Yes for orders over 50 euros,"No, free delivery is available for orders over 50 euros.",needs_review
+10,Can my refund go to a different payment method?,No,"No, refunds are sent to the original payment method.",needs_review
